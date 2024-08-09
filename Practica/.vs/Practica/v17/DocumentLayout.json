@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PracticaEvaluacion\\Practica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{182E5090-089C-4121-BFBC-AD7ECDA13FC1}|Practica.csproj|d:\\practicaevaluacion\\practica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E5090-089C-4121-BFBC-AD7ECDA13FC1}|Practica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B7EA1C-1EFB-402D-81BD-FF9222128D1B}|..\\AsyncYAwait\\AsyncYAwait.csproj|d:\\practicaevaluacion\\asyncyawait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PracticaEvaluacion\\AsyncYAwait\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AsyncYAwait\\Program.cs",
+              "ToolTip": "D:\\PracticaEvaluacion\\AsyncYAwait\\Program.cs",
+              "RelativeToolTip": "..\\AsyncYAwait\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:26:58.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PracticaEvaluacion\\Practica\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\PracticaEvaluacion\\Practica\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:41:14.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

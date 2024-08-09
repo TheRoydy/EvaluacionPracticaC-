@@ -1,0 +1,14 @@
+D:\PracticaEvaluacion\AsyncYAwait\bin\Debug\net8.0\AsyncYAwait.exe
+D:\PracticaEvaluacion\AsyncYAwait\bin\Debug\net8.0\AsyncYAwait.deps.json
+D:\PracticaEvaluacion\AsyncYAwait\bin\Debug\net8.0\AsyncYAwait.runtimeconfig.json
+D:\PracticaEvaluacion\AsyncYAwait\bin\Debug\net8.0\AsyncYAwait.dll
+D:\PracticaEvaluacion\AsyncYAwait\bin\Debug\net8.0\AsyncYAwait.pdb
+D:\PracticaEvaluacion\AsyncYAwait\obj\Debug\net8.0\AsyncYAwait.GeneratedMSBuildEditorConfig.editorconfig
+D:\PracticaEvaluacion\AsyncYAwait\obj\Debug\net8.0\AsyncYAwait.AssemblyInfoInputs.cache
+D:\PracticaEvaluacion\AsyncYAwait\obj\Debug\net8.0\AsyncYAwait.AssemblyInfo.cs
+D:\PracticaEvaluacion\AsyncYAwait\obj\Debug\net8.0\AsyncYAwait.csproj.CoreCompileInputs.cache
+D:\PracticaEvaluacion\AsyncYAwait\obj\Debug\net8.0\AsyncYAwait.dll
+D:\PracticaEvaluacion\AsyncYAwait\obj\Debug\net8.0\refint\AsyncYAwait.dll
+D:\PracticaEvaluacion\AsyncYAwait\obj\Debug\net8.0\AsyncYAwait.pdb
+D:\PracticaEvaluacion\AsyncYAwait\obj\Debug\net8.0\AsyncYAwait.genruntimeconfig.cache
+D:\PracticaEvaluacion\AsyncYAwait\obj\Debug\net8.0\ref\AsyncYAwait.dll
