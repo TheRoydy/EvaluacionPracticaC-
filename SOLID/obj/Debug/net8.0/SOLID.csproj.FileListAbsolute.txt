@@ -1,0 +1,15 @@
+D:\Documents\EvaluacionPracticaC-\SOLID\bin\Debug\net8.0\SOLID.exe
+D:\Documents\EvaluacionPracticaC-\SOLID\bin\Debug\net8.0\SOLID.deps.json
+D:\Documents\EvaluacionPracticaC-\SOLID\bin\Debug\net8.0\SOLID.runtimeconfig.json
+D:\Documents\EvaluacionPracticaC-\SOLID\bin\Debug\net8.0\SOLID.dll
+D:\Documents\EvaluacionPracticaC-\SOLID\bin\Debug\net8.0\SOLID.pdb
+D:\Documents\EvaluacionPracticaC-\SOLID\obj\Debug\net8.0\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\EvaluacionPracticaC-\SOLID\obj\Debug\net8.0\SOLID.AssemblyInfoInputs.cache
+D:\Documents\EvaluacionPracticaC-\SOLID\obj\Debug\net8.0\SOLID.AssemblyInfo.cs
+D:\Documents\EvaluacionPracticaC-\SOLID\obj\Debug\net8.0\SOLID.csproj.CoreCompileInputs.cache
+D:\Documents\EvaluacionPracticaC-\SOLID\obj\Debug\net8.0\SOLID.sourcelink.json
+D:\Documents\EvaluacionPracticaC-\SOLID\obj\Debug\net8.0\SOLID.dll
+D:\Documents\EvaluacionPracticaC-\SOLID\obj\Debug\net8.0\refint\SOLID.dll
+D:\Documents\EvaluacionPracticaC-\SOLID\obj\Debug\net8.0\SOLID.pdb
+D:\Documents\EvaluacionPracticaC-\SOLID\obj\Debug\net8.0\SOLID.genruntimeconfig.cache
+D:\Documents\EvaluacionPracticaC-\SOLID\obj\Debug\net8.0\ref\SOLID.dll

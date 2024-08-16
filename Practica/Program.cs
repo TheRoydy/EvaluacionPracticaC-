@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Practica;
+using System;
 
 public class Persona
 {
@@ -33,9 +34,10 @@ public class Persona
         Empleado empleado = new Empleado();
         empleado.MostrarInformacion();
     }
+
 }
 
-public class Empleado : Persona
+public class Empleado : Persona, ICalculable
 {
     public double Salario { get; set; }
 
@@ -54,10 +56,16 @@ public class Empleado : Persona
         Salario = 1000;
     }
 
-    // Sobrescribir el método para mostrar la información 
+    //Implementamos el metodo de la interfaz
+    public double calcularSalario()
+        {
+            return Salario;
+        }
+
+    // Sobrescribimos el método para mostrar la información 
     public override void MostrarInformacion()
     {
         base.MostrarInformacion();
-        Console.WriteLine($"Salario: {Salario}");
+        Console.WriteLine($"Salario: {calcularSalario()}");
     }
 }
