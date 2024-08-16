@@ -40,12 +40,14 @@ public class Persona
 public class Empleado : Persona, ICalculable
 {
     public double Salario { get; set; }
+    public int DiasTrabajados { get; set; }
 
     // Constructor que inicializa los atributos heredados y el nuevo atributo
-    public Empleado(String nombre, int edad, String direccion, double salario)
+    public Empleado(String nombre, int edad, String direccion, double salario, int diasTrabajados)
         : base(nombre, edad, direccion) 
     {
         Salario = salario;
+        DiasTrabajados = diasTrabajados;
     }
 
     public Empleado()
@@ -53,13 +55,15 @@ public class Empleado : Persona, ICalculable
         Nombre = "Yordy";
         Edad = 19;
         Direccion = "Neiva";
-        Salario = 1000;
+        Salario = 1300000;
+        DiasTrabajados = 6;
     }
 
     //Implementamos el metodo de la interfaz
     public double calcularSalario()
         {
-            return Salario;
+            double operacion = Salario / 30;
+            return operacion * DiasTrabajados;
         }
 
     // Sobrescribimos el método para mostrar la información 
