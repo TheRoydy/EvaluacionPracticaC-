@@ -8,6 +8,6 @@ namespace Practica
 {
     public interface ICalculable
     {
-        double calcularSalario();
+        decimal calcularSalario();
     }
 }
