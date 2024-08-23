@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "D:\\EvaluacionPracticaC-\\Practica\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5E936C91-EF8D-4D78-9F33-C2B82D94A5E6}|..\\SOLID\\SOLID.csproj|d:\\evaluacionpracticac-\\solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{182E5090-089C-4121-BFBC-AD7ECDA13FC1}|Practica.csproj|d:\\evaluacionpracticac-\\practica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{182E5090-089C-4121-BFBC-AD7ECDA13FC1}|Practica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,30 +21,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EvaluacionPracticaC-\\SOLID\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SOLID\\Program.cs",
+              "ToolTip": "D:\\EvaluacionPracticaC-\\SOLID\\Program.cs",
+              "RelativeToolTip": "..\\SOLID\\Program.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAswBoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T17:50:48.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ICalculable.cs",
               "DocumentMoniker": "D:\\EvaluacionPracticaC-\\Practica\\ICalculable.cs",
               "RelativeDocumentMoniker": "ICalculable.cs",
               "ToolTip": "D:\\EvaluacionPracticaC-\\Practica\\ICalculable.cs",
               "RelativeToolTip": "ICalculable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T19:03:28.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\EvaluacionPracticaC-\\Practica\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\EvaluacionPracticaC-\\Practica\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAkwC4AAAAAAAAA",
+              "ViewState": "AQIAAD0AAAAAAAAAAAA8wFQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T18:11:19.968Z",
               "EditorCaption": ""

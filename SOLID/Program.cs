@@ -39,10 +39,7 @@ namespace SOLID
             Console.WriteLine($"Mi nombre es {Name}");
         }
 
-        //public void SaveToDatabe()
-        //{
-        //    Console.WriteLine($"Guarde {Name}");
-        //}
+       
     }
 
     public class Employee : Persona

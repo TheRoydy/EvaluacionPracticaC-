@@ -34,10 +34,10 @@ public class Empleado : Persona, ICalculable
     public int DiasTrabajados { get; set; }
 
     // Constructor que inicializa los atributos heredados y los nuevos atributos
-    public Empleado(String nombre, int edad, String direccion, String telefono, decimal salario, int diasTrabajados)
+    public Empleado(String nombre, int edad, String direccion, String telefono, int diasTrabajados)
         : base(nombre, edad, direccion, telefono)
     {
-        Salario = salario;
+        Salario = 1300000;
         DiasTrabajados = diasTrabajados;
     }
 
@@ -83,15 +83,18 @@ public class Empleado : Persona, ICalculable
         Console.WriteLine("Ingrese el teléfono:");
         string telefono = Console.ReadLine();
 
-        Console.WriteLine("Ingrese el salario base:");
-        decimal salario = decimal.Parse(Console.ReadLine());
+        Console.WriteLine("-------------------------------------");
+
+        Console.WriteLine("Salario base: $1.300.000 COP ");
+
+        Console.WriteLine("-------------------------------------");
 
         Console.WriteLine("Ingrese los días trabajados:");
         int diasTrabajados = int.Parse(Console.ReadLine());
 
         Console.WriteLine("-------------------------------------");
 
-        Empleado empleado = new Empleado(nombre, edad, direccion, telefono, salario, diasTrabajados);
+        Empleado empleado = new Empleado(nombre, edad, direccion, telefono, diasTrabajados);
         await empleado.MostrarSalario();
     }
 }
